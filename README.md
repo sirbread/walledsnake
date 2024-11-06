@@ -6,9 +6,10 @@ Uses the Tkinter and Pillow library to generate the game grid and set the wallpa
 ## Instructions
 
 1. **Start the Game:**
-   - Simply run `walledsnake.py` to start the Snake game.
+   - Simply run `walledsnake.py` to start the game.
    - The control window should pop up automatically.
-   - MINIMIZE EVERYTHING (win + d) once you hit run. Then, bring up the tkinter window. 
+   - Minimize everything (win + d) once you hit run to see the wallpaper, or your game. Then, bring up the tkinter window.
+   - **NOTICE:** Your wallpaper **will get overwritten,** so be careful and download a copy of your wallpaper if you want to keep it. 
 
 2. **Gameplay:**
    - Use the arrow buttons in the control window to move the snake OR keyboard keys:
