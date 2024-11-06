@@ -1,7 +1,7 @@
 # walledsnake
 
 **WINDOWS ONLY. Sorry to my Linux users!** Walled snake, to put it very simply, is snake, but your desktop wallpaper is the game. 
-Using the Tkinter and Pillow library to generate the game grid and set the wallpaper.
+Uses the Tkinter and Pillow library to generate the game grid and set the wallpaper.
 
 ## Instructions
 
