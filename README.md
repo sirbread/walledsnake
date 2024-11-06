@@ -6,7 +6,7 @@ Uses the Tkinter and Pillow library to generate the game grid and set the wallpa
 ## Instructions
 
 1. **Start the Game:**
-   - Simply run the `walledsnake.py` to start the Snake game.
+   - Simply run `walledsnake.py` to start the Snake game.
    - The control window should pop up automatically.
    - MINIMIZE EVERYTHING (win + d) once you hit run. Then, bring up the tkinter window. 
 
