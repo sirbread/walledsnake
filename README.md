@@ -31,7 +31,4 @@ Uses the Tkinter and Pillow library to generate the game grid and set the wallpa
 - Pillow==9.5.0
 - Tkinter
 
-## Known Issues
-- After one game is won, the screen doesn't update properly. You must move the character to update to the new layout, although generated border blocks still update normally. (After a win, you will see a new border block, just more the character to get to the new layout)
-
 
